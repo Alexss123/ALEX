@@ -30,3 +30,4 @@ elif len(resultados) == 1:
     print(f"La solución doble es: {resultados[0]}")
 else:
     print(f"Las soluciones son: x1 = {resultados[0]}, x2 = {resultados[1]}")
+
